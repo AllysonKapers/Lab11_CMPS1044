@@ -1,0 +1,16 @@
+Students with GPA above a 3.0: 
+
+Diddley Bo 3.1
+Nelson Ricky 3.6
+Carey Mariah 3.3
+Houston Whitney 3.9
+Sinatra Frank 4
+Springsteen Bruce 3.6
+Streisand Barbra 3.8
+Diamond Neil 3.7
+John Elton 3.6
+
+
+Average GPA of all students: 3.0
+
+Freshmen: 8 Sophomores: 4 Juniors: 5 Seniors: 0 Total: 17
