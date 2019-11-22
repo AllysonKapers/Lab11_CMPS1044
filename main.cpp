@@ -26,7 +26,7 @@ int main() {
   //prints file header to outputfile
   outfile << "Allyson Moore \n CMPS1044-102 \n";
   outfile << "Lab 11: Structs \n";
-  outfile << "November 22, 2019 \n\n"
+  outfile << "November 22, 2019 \n\n";
 
 	int num; // number of records on file
 	double sumGPA = 0.0;

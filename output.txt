@@ -1,3 +1,8 @@
+Allyson Moore 
+ CMPS1044-102 
+Lab 11: Structs 
+November 22, 2019 
+
 Students with GPA above a 3.0: 
 
 Diddley Bo 3.1
